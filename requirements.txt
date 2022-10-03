@@ -1,0 +1,4 @@
+tensorflow-cpu
+streamlit
+numpy===1.19.2
+pillow
